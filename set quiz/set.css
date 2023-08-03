@@ -1,0 +1,73 @@
+    #sub{
+        margin-left: 13cm;
+    }
+    .in{
+        margin-right: 100px;
+        width: 80px;
+    }
+    #btn{
+        margin-left: 550px;
+        margin-top: 50px;
+       
+    }
+    #ne{
+        display: flex;
+    }
+    #container{
+        max-width: max-content;
+        border: 5px solid black;
+        border-radius: 5px;
+        margin-left: 4cm;
+        background-color: white;
+    }
+            .ba{
+                display: solid;
+                background-color: rgb(11, 214, 180);
+            }
+        #answerThree{
+            color: aliceblue;
+           
+        }
+        #cc{
+            display: flex;
+            margin-left: 120px;
+        }
+        #l {
+            margin-left: 70px;
+        }
+        #m{
+            margin-left: 70px;
+        }
+        #n{
+            margin-left: 70px;
+        }
+        #cd{
+            /* display: flex; */
+            margin-left: 40px;
+            
+            align-items: var(120px);
+        }
+
+            #a{
+                box-sizing: border-box;
+                font-size: 25px;
+                border-color: rgb(255, 255, 255);
+                background-color:rgb(37, 25, 146);
+                border-width: 2px;
+                box-shadow: 3px;
+                color: white;
+               border-style: solid;
+               width: 200px;
+               height: 40px;
+               border-radius: 9.8px;
+               padding: 6px;
+               margin-left: 570px;
+               margin-top: 50px;
+               margin-bottom: auto;
+             
+            }
+            #img{
+                margin-top: auto;
+                margin-left: auto;
+            }
+       
